@@ -213,4 +213,10 @@
         display: inline;
         font-size: 12px;
     }
+    .try-btn {
+        padding: 10px;
+    }
+    .pg-ttl h1 {
+        font-size: 30px;
+    }
 }
